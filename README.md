@@ -114,4 +114,4 @@ API docs available at: **http://localhost:8000/docs**
 ## Author
 
 **Adxell Arango** — Systems Engineer & Full-Stack Developer  
-[LinkedIn](https://www.linkedin.com/in/adxell-adrian-arango-solano-9b302a149/) | [Snaaply](https://snaaply.com)
+[LinkedIn](https://www.linkedin.com/in/adxell-adrian-arango-solano-9b302a149/)
